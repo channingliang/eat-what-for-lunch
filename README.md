@@ -1,44 +1,47 @@
-# eat-what-for-lunch
+# 🌀 eat-what-for-lunch
 
-> "What’s for lunch?" – A question that has destroyed more friendships than Monopoly ever could.
+> To ask “What should we eat for lunch?”  
+> is to stare into the abyss and hear it reply:  
+> “Up to you.”
 
-## 🤔 What is this?
+## 🍽️ The Existential Lunch Crisis
 
-**eat-what-for-lunch** is our group's noble, brave, and absolutely essential attempt to answer the age-old question that haunts every lunch break:
-> _"What should we eat?"_
+Lunch is not a meal.  
+Lunch is a **metaphysical event**.
 
-This project is not just a software application.  
-It's a survival tool for indecisive groups, hangry developers, and anyone who's ever said "I don't care, you choose" and then shot down every suggestion.
+Every day at noon, the clock strikes twelve, and so begins humanity’s oldest tragedy:  
+**Decision.**
 
-## 🧠 Why the name?
+Not the grand, cinematic decisions of life or death, love or war.  
+No — the quiet horror of indecision between noodles and rice.
 
-Because that's literally what we asked ourselves.  
-Out loud.  
-At least 20 times.  
-Every. Single. Day.
+We are Sisyphus, cursed not to push a boulder, but to scroll endless food delivery apps.  
+We are Hamlet, except the question is not "to be or not to be,"  
+but “sushi or salad?”
 
-And like true engineers, we decided:
-> _If a question causes us pain, we shall automate it._
+## 🔄 Choice is an Illusion
 
-Thus, `eat-what-for-lunch` was born — not out of inspiration, but desperation (and maybe a little hunger).
+When you say “anything is fine,”  
+you are lying to yourself and to the universe.
 
-## 🛠️ What does it do?
+You do not want “anything.”  
+You want to be surprised by a decision you didn’t have to make.  
+You want chicken, but only if someone else says it first.
 
-- Helps you decide what to eat for lunch
-- Ends group debates (or starts new ones)
-- Uses [insert your logic, randomizer, recommendation algorithm, AI, etc.]
-- Guarantees that someone will still say: _“I don’t want that.”_
+This project does not answer the question.  
+It **becomes** the question.  
+It dances around it, laughs in its face, and whispers:  
+“You were never hungry — you were empty.”
 
-## 👨‍👩‍👧‍👦 Who made this?
+## 🥢 In Summary
 
-A hungry, slightly over-caffeinated group of students who were tired of fighting over noodles vs. burgers.
+Lunch is chaos.  
+This repo is a shrine to that chaos.  
+Cloning it will not save you.  
+Reading this will not feed you.  
+But maybe, just maybe, you'll feel seen.
 
-## 🚀 How to use it?
+> _“He who controls lunch, controls the world.”_  
+> — Probably Nietzsche
 
-Clone it. Run it. Eat.
-
-```bash
-git clone https://github.com/channingliang/eat-what-for-lunch.git
-cd eat-what-for-lunch
-# Follow instructions in the repo
-```
+> by. Channing
